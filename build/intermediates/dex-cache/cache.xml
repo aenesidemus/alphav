@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/adventis/Documents/Work/oDesk/alphav/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-de65217ba30178e94312feed4b71d050f770fd90.jar"
+        jar="/Users/adventis/Documents/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/adventis/Documents/Work/oDesk/alphav/app/build/intermediates/pre-dexed/debug/classes-d9be1691fd989195a853500634b236c66e80023d.jar"
+        jar="/Users/adventis/Documents/Work/oDesk/alphav/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.2.08/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1ed7a7a05185651f9af41ad93711cb96b66f331c"/>
+
+</pre-dex-items>
